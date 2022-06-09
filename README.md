@@ -1,4 +1,4 @@
-# ui_login_register
+# Register Page
 
 A new Flutter project.
 
